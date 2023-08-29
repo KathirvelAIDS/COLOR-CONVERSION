@@ -18,8 +18,8 @@ Split and merge the image using cv2.split(hsv) and cv2.merge([h,s,v]).
 Output the image using cv2.imshow("OUTPUT", image).
 ## Program:
 \
-# Developed By: PERARASU M
-# Register Number: 212222100033
+# Developed By: KATHIRVEL.A
+# Register Number: 212221230047
 # i) Convert BGR and RGB to HSV and GRAY
 ```
 import cv2
